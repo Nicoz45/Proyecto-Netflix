@@ -202,21 +202,25 @@ div.login:hover span {
 .izquierda {
     width: 49%;
   float: left;
+  margin: auto;
 }
 .derecha {
     width: 49%;
   float: right;
+  margin: auto;
   margin-top: 100px;
 }
 
 .izquierdaflot {
   width: 49%;
   float: left;
+  margin: auto;
   margin-top: 100px;
 }
 .derechaflot {
   width: 49%;
   float: right;
+  margin: auto;
 }
 
 .tv img {
