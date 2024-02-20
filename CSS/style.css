@@ -65,6 +65,7 @@ section div.contenido {
 
 section div.contenido div {
   /*border: solid rgb(187, 2, 2);*/
+  margin:auto;
   overflow: clip;
   overflow-clip-margin: content-box;
 }
