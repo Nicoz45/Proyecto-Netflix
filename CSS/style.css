@@ -57,10 +57,13 @@ section {
 section div.contenido {
   width: auto;
   height: auto;
-  border: solid gray;
+ /*border: solid gray;*/
   margin: auto;
   margin-top: 50px;
   padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 section div.contenido div {
